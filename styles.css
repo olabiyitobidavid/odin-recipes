@@ -1,0 +1,53 @@
+body {
+    background-color:black;
+    color: #0802A3;
+    padding-right: 5%;
+    padding-left: 0%;
+}
+
+p {
+    color: #FFCD4B;
+    text-align: justify;
+    font-size: 24px;
+    
+}
+
+h1,h2{
+    color: #FF4B91;
+}
+h1{
+    font-size: 40px;
+}
+
+h2{
+    text-align: justify;
+}
+
+footer{
+    color: #ffffff;
+}
+a{
+    text-align: center;
+    background-color:blue;
+    color: white;
+}
+
+div.home{
+    align: center;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+
+ul,ol {
+    color: #FFCD4B;
+    font-size: 20px;
+}
+ul{
+   
+
+}
+
+footer{
+    text-align: center;
+}
